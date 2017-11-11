@@ -1,2 +1,2 @@
 # Coding-Problems
-Contains implemenation solution of standard algo pbm
+Contains implemenation of standard algo pbm
